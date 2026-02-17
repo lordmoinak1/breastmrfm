@@ -11,7 +11,7 @@ This repository provides the implementation for:
 
 ## Download Dataset (MAMAMIA)
 
-The dataset can be downloaded from [here]{https://www.synapse.org/Synapse:syn60868042/wiki/628716}.
+The dataset can be downloaded from [here](https://www.synapse.org/Synapse:syn60868042/wiki/628716).
 
 ---
 
@@ -29,7 +29,7 @@ CUDA_VISIBLE_DEVICES=0 python3 foundation_model_training.py
 
 ## Download Pretrained Weights
 
-Download pretrained weights from [here]{https://drive.google.com/file/d/1GIQHGRnC1GVqkKdVYfyxcwm_sPZ11ahv/view?usp=share_link}.
+Download pretrained weights from [here](https://drive.google.com/file/d/1GIQHGRnC1GVqkKdVYfyxcwm_sPZ11ahv/view?usp=share_link).
 
 ## Run Feature Extraction
 
