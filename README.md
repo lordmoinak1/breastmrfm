@@ -11,9 +11,7 @@ This repository provides the implementation for:
 
 ## Download Dataset (MAMAMIA)
 
-The dataset can be downloaded from the Synapse platform:
-
-https://www.synapse.org/Synapse:syn60868042/wiki/628716
+The dataset can be downloaded from [here]{https://www.synapse.org/Synapse:syn60868042/wiki/628716}.
 
 ---
 
@@ -29,23 +27,9 @@ CUDA_VISIBLE_DEVICES=0 python3 foundation_model_training.py
 
 # 🔍 2. Generate Feature Embeddings
 
-You can either:
+## Download Pretrained Weights
 
-- Use your trained checkpoint  
-or  
-- Download pretrained weights  
-
----
-
-## Option A: Download Pretrained Weights
-
-Download pretrained weights from:
-
-https://drive.google.com/file/d/1GIQHGRnC1GVqkKdVYfyxcwm_sPZ11ahv/view?usp=share_link
-
-Place the downloaded `.ckpt` file in your checkpoint directory.
-
----
+Download pretrained weights from [here]{https://drive.google.com/file/d/1GIQHGRnC1GVqkKdVYfyxcwm_sPZ11ahv/view?usp=share_link}.
 
 ## Run Feature Extraction
 
