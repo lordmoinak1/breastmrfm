@@ -29,7 +29,7 @@ CUDA_VISIBLE_DEVICES=0 python3 foundation_model_training.py
 
 ## Download Pretrained Weights
 
-Download pretrained weights from [here](https://drive.google.com/file/d/1GIQHGRnC1GVqkKdVYfyxcwm_sPZ11ahv/view?usp=share_link).
+Download pretrained weights from [here](https://drive.google.com/file/d/1HTI1vO8jkb87TmIxnTUx8MTG0wJDutH0/view?usp=sharing).
 
 ## Run Feature Extraction
 
